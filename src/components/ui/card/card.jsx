@@ -3,7 +3,6 @@ import Title from "../title/title";
 import { CardWrapper, CardName, StyledElement, Paragraph } from "./style";
 
 export default function Card({ title, text, parentName, mark, name, img }) {
-  console.log(img);
   return (
     <StyledElement className={`card ${parentName}`}>
       <CardWrapper $img={img}>
