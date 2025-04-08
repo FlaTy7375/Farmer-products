@@ -68,6 +68,7 @@ export default function Buy({ checkboxList, PriceList }) {
             <small>Цена</small>
             <p>{price} руб.</p>
             <Button
+              method="button"
               className="buy-button"
               type="submit"
               onClick={handleBuy}
