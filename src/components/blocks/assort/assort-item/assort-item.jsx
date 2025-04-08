@@ -16,7 +16,7 @@ export default function AssortItem(props) {
     nutritionalValue,
   } = props;
 
-  assortTabs = [
+  const assortTabs = [
     {
       content: <Description price={price}>{description}</Description>,
     },
