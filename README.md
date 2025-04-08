@@ -1,2 +1,2 @@
 # Farmer-products
-Created with CodeSandbox
+Created with React
