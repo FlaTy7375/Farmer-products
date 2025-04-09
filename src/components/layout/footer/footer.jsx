@@ -4,10 +4,8 @@ import { StyledFooter, FooterContainer } from "./styles";
 
 export default function Footer() {
   return (
-    <StyledFooter>
       <FooterContainer>
         <FooterWrapper></FooterWrapper>
       </FooterContainer>
-    </StyledFooter>
   );
 }

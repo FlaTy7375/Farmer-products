@@ -13,7 +13,7 @@ export const BuyProducts = styled.div`
     padding-left: 20px;
     padding-bottom: 12px;
     background-color: #ffffff;
-    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.04);
   }
 
   h1 {
@@ -35,7 +35,7 @@ export const BuyForm = styled.form`
 export const MakeOrder = styled.div`
   padding: 24px 20px 20px 20px;
   background-color: #ffffff;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.04);
 
   h1 {
     font-weight: 700;

@@ -6,6 +6,8 @@ export const StyledHeaderLogo = styled.div`
     flex-wrap: wrap;
     align-items: center;
     min-width: 398px;
+    text-decoration: none;
+    color: #000000;
   }
 
   &.header-logo h1 {

@@ -5,7 +5,7 @@ export const StyledItem = styled.li`
   padding: 20px;
   max-width: 727px;
   background-color: #ffffff;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.04);
 
   img {
     object-fit: cover;

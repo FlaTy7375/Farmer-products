@@ -19,9 +19,5 @@ export default function Header() {
     }
   };
 
-  return (
-    <StyledHeader>
-      <HeaderWrapper>{returnButton()}</HeaderWrapper>
-    </StyledHeader>
-  );
+  return <HeaderWrapper>{returnButton()}</HeaderWrapper>;
 }

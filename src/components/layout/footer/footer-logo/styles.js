@@ -6,6 +6,8 @@ export const StyledFooterLogo = styled.div`
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    text-decoration: none;
+    color: #000000;
   }
 
   &.footer-logo h1 {
